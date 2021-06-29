@@ -1,6 +1,6 @@
 {
   "name": "lqy-axios-sdk",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "LQY-axios",
   "main": "lqy-axios-sdk.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "name": "LQY",
     "email": "1322760660@qq.com"
   },
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",
     "qs": "^6.10.1"
