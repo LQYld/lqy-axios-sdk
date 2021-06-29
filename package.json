@@ -1,0 +1,26 @@
+{
+  "name": "lqy-axios-sdk",
+  "version": "1.0.6",
+  "description": "LQY-axios",
+  "main": "lqy-axios-sdk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url":"git@github.com:LQYld/lqy-axios-sdk.git"
+  },
+  "keywords": [
+    "LQY",
+    "LQY-axios"
+  ],
+  "author": {
+    "name": "LQY",
+    "email": "1322760660@qq.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "qs": "^6.10.1"
+  }
+}
