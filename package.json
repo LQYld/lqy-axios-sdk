@@ -1,6 +1,6 @@
 {
   "name": "lqy-axios-sdk",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "LQY-axios",
   "main": "lqy-axios-sdk.js",
   "scripts": {
